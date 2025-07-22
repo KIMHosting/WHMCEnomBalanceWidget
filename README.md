@@ -1,2 +1,2 @@
-# WHMCEnomBalanceWidget
-WHMCS Admin Dashboard Enom Balance Widget
+#1. Go to modules/widgets
+#2. Upload file named EnomBalance.php
