@@ -26,8 +26,8 @@ class eNomBalanceWidget extends \WHMCS\Module\AbstractWidget
     public function getData()
     {
         // Credentials (replace with your actual values or use dynamic loading below)
-        $enomusername = 'kimhosting';
-        $enompassword = '4PUZXLQCO6DK3GXYOFN4ZZOM5U4XC6DETEXOXFQT';
+        $enomusername = '[USERNAME HERE]';
+        $enompassword = '[PASSWORD HERE]';
 
         // Optional secure loading from database
         // $settings = Capsule::table('tblregistrars')->where('registrar', 'enom')->pluck('value', 'setting');
